@@ -1,3 +1,7 @@
+//CODE TO CALCULATE FINE OF BOOKS IN LIBRARY
+// RODNEY VALENCIA SANDE
+// BSE-01-0212/2024
+
 #include <iostream>
 #include <iomanip>  // for formatting output
 using namespace std;
