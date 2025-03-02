@@ -1,3 +1,8 @@
+
+//CODE FOR LIBRARY MANAGMENT SYSTEM
+// RODNEY VALENCIA SANDE
+// BSE-01-0212/2024	
+
 #include <iostream>
 using namespace std;
 
@@ -20,10 +25,6 @@ class LibraryMember : public Person {
 		int memberID;
 		int booksBorrowed;
 	
-	
-//CODE FOR LIBRARY MANAGMENT SYSTEM
-// RODNEY VALENCIA SANDE
-// BSE-01-0212/2024	
 	public:
 		LibraryMember(string n, int id, int books) {
 		  	name = n;
